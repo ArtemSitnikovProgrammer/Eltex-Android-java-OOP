@@ -24,7 +24,7 @@ public class Main {
                 nFile.write(user.getName() + " ");
                 nFile.write(user.getAddress() + " ");
                 nFile.write(user.getPhoneNumber() + "\n");
-                nFile.write(user. instanceof Individual.getPost() + "\n");
+
 
             } catch (IOException e) {
                 e.printStackTrace();
